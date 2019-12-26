@@ -1,4 +1,5 @@
 {
+  "name": "turf",
   "private": true,
   "workspaces": [
     "packages/*"
