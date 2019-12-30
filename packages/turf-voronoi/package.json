@@ -1,6 +1,5 @@
 {
-    "name": "@turf/voronoi-muadzict",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "turf voronoi module",
     "main": "main.js",
     "module": "main.es.js",
@@ -58,5 +57,9 @@
     "@std/esm": {
         "esm": "js",
         "cjs": true
+    },
+    "name": "@muadzict/turf-voronoi-muadzict",
+    "directories": {
+        "test": "test"
     }
 }
